@@ -6,14 +6,14 @@
 
 for (let i=1; i<=100; i++){
   if (i % 3 === 0 && i % 5 === 0 ){
-    console.log(`${i} è multiplo di 3 e 5`)
+    console.log("FizzBuzz")
   }
   
-  if (i % 3 === 0){
-    console.log(`${i} è multiplo di 3`)
+  else if (i % 3 === 0){
+    console.log("Fizz")
   }
-  if (i % 5 === 0){
-    console.log(`${i} è multiplo di 5`)
+  else if (i % 5 === 0){
+    console.log("Buzz")
   }
   
 }

@@ -15,3 +15,6 @@ Consigli del giorno:
 scriviamo sempre prima dei commenti in italiano per capire cosa vogliamo fare
 proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 
+-individuo costanti (Fizz, Buzz e Fizzbuzz)per multipli di 3, 5 e entrambi partendo proprio da quest'ultimo individuandoli con %
+-inizializzo ciclo For per numeri da 1 a 100 
+-creo condizionali if, else per le 3 costanti con messagge annesso per ognuna
